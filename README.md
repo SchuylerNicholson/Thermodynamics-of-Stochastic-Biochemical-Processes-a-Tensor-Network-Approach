@@ -1,7 +1,7 @@
 # Thermodynamics of Stochastic Biochemical Processes: a Tensor Network Approach
 This repository implements the tensor network methods shown in 
 
->**Thermodynamics of Stochastic Biochemical Processes: a Tenosr Network Approach**
+>**Thermodynamics of Stochastic Biochemical Processes: a Tensor Network Approach**
 >Schuyler B. Nicholson, Luis Pedro García-Pintos
 >[arXiv:2512.19616](https://arxiv.org/abs/2512.19616)
 
