@@ -10,8 +10,12 @@ This repository implements the tensor network methods shown in
 ## Overview 
 Calculating thermodynamic observables at the level of the chemical master equation is a fundamental challenge due to the curse of dimensionality, where mathematically exact solutions of many-body systems become exponentially expensive to solve. By writing observables such as rates of entropy production, heat flux and chemical work into the language of tensor networks we circumvent the curse of dimensionality while also not requiring assumptions about system noise or resorting to sampling method and their inherent limitations.
 
-<img src="Git_Figures/Thermo_TN_Collection.png" width=50% height=50%>
-Above, Tensor network representations for the thermodynamic rates of heat flux, chemical work, and the Renyi-2 entropy rate.
+<p align="center">
+  <img src="Git_Figures/Thermo_TN_Collection.png" width=50% height=50%>
+  <br>
+  <em>Figure 1: Tensor network representations for the thermodynamic rates of heat flux, chemical work, and the Renyi-2 entropy rate.</em>
+</p>
+
 
 # Installation
 Required packages can be added using the Julia package manager. From the Julia Repl, type `]` to enter the package manager and run for example,
